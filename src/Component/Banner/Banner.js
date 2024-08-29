@@ -15,10 +15,10 @@ const Banner = () => {
                 <div className="banner-stick">
                     <div className="banner-stick-box">
                         <div className="banner-stick-card">
-                            <span>Golf Course</span>
-                            <h2>4.95 Cr* Onwards</h2>
+                            <h2>Let Start Conversation</h2>
+                            <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, quis?</span>
                         </div>
-                        <div className="banner-stick-card">
+                        {/* <div className="banner-stick-card">
                             <span>Golf Club</span>
                             <h2>At Andheri West , Mumbai</h2>
                         </div>
@@ -29,7 +29,7 @@ const Banner = () => {
                         <div className="banner-stick-card">
                             <span>Status</span>
                             <h2>New LAUNCH</h2>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

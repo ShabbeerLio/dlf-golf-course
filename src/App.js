@@ -14,7 +14,7 @@ import Disclaimer from "./Pages/Disclaimer/Disclaimer";
 
 function App() {
 
-  const title = "DLF Andheri - New Launch Premium Residences At Mumbai"
+  const title = "DLF Golf Course"
   const descriptions = "DLF Andheri Mumbai is an impending premium residences that provides 2 & 3 BHK ultra-luxury homes with 50+ niceties & impeccable features by DLF India."
 
   // remove inspect and copy element
